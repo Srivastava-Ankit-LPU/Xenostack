@@ -7,7 +7,7 @@ A full-stack web application with user authentication, home page, and a contact 
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Screenshots](#screenshots)
 
 ## Overview
 
@@ -36,13 +36,6 @@ Before you begin, ensure you have met the following requirements:
 
 - Node.js installed
 - MongoDB installed and running
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Srivastava-Ankit-LPU/Xenostack.git
 
 ## Screenshots
 

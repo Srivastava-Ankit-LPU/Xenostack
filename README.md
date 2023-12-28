@@ -53,3 +53,12 @@ Contact us page:
 Filling form and sending the data :
 ![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/e195956e-7140-4323-80b0-a1e3baeedb60)
 
+Database screenshots(data stored in database)
+signed users screenshots (database):
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/18a2dd83-105e-4590-bfdf-9b639f176954)
+
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/baf7b6aa-eb3b-4636-a635-8da62c84c2d8)
+screenshots of form filled in contact us page:
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/51a401e0-e69d-431b-968a-4d5cfc05b7b6)
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/c1ec9de7-e41b-4d8f-a5d6-0842b58913f7)
+

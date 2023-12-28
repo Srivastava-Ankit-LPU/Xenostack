@@ -43,3 +43,17 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/Srivastava-Ankit-LPU/Xenostack.git
+
+## Screenshots
+
+
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/e7ca1687-daf9-4004-b6ba-f80936644d32)
+sign up image:
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/c74ceff7-d6a1-4a54-b72f-1a6ae6809d75)
+Home page:
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/f0867867-5067-404b-bd9c-582cce265651)
+Contact us page:
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/959586d0-e3c1-4548-91d1-e5455c0bee46)
+Filling form and sending the data :
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/e195956e-7140-4323-80b0-a1e3baeedb60)
+

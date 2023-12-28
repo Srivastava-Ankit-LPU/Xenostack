@@ -42,9 +42,11 @@ Before you begin, ensure you have met the following requirements:
 
 ![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/e7ca1687-daf9-4004-b6ba-f80936644d32)
 sign up image:
-![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/c74ceff7-d6a1-4a54-b72f-1a6ae6809d75)
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/f3892d09-ba22-463b-ad41-19182d496aac)
+
 Home page:
-![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/f0867867-5067-404b-bd9c-582cce265651)
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/36a83f93-5bc5-4188-a897-7a5eb2397ae6)
+
 Contact us page:
 ![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/d67d8e82-9069-4fc0-a86b-662a0b3d721a)
 

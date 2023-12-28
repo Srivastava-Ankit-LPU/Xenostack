@@ -4,8 +4,7 @@ dotenv.config();
 const mongoUrl = process.env.MONGODB_URL;
 
 mongoose.connect(mongoUrl, {
-  useNewUrlParser: true, // Remove this line, as it's deprecated
-  useUnifiedTopology: true, // Remove this line, as it's deprecated
+  
   // Add the following lines for the new options
   useCreateIndex: true,
   useFindAndModify: false,

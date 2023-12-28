@@ -46,7 +46,8 @@ sign up image:
 Home page:
 ![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/f0867867-5067-404b-bd9c-582cce265651)
 Contact us page:
-![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/959586d0-e3c1-4548-91d1-e5455c0bee46)
+![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/d67d8e82-9069-4fc0-a86b-662a0b3d721a)
+
 Filling form and sending the data :
 ![image](https://github.com/Srivastava-Ankit-LPU/Xenostack/assets/83294365/e195956e-7140-4323-80b0-a1e3baeedb60)
 
